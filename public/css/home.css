@@ -1,0 +1,17 @@
+body{
+    
+    background-image: url("./public/images/camioneta.jpg");
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    color: black;
+    font-family: 'Damion', cursive;
+}
+.piedepag{
+    color: blueviolet;
+    text-align: center;
+
+}
+.rojo{
+    color: red;
+}
